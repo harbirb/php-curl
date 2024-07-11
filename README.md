@@ -1,1 +1,1 @@
-Created a REST API client using PHP and cURL. Using Git API enpoints to view, add, update, and delete repositories. Authentication using Personalized token sent in each http header.
+Created a REST API client using PHP and cURL. It uses the Github API to view, add, update, and delete repositories. Authentication is done using a personalized token sent in each http header.
